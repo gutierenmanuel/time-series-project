@@ -1,6 +1,6 @@
-# TITLE PROYECT
+# Time Series Proyect
 
-explanation of the github project
+In the context of this project, we possess a comprehensive understanding of the characteristics inherent in a time series, wherein we delve into the discernment of its fundamental attributes, including but not limited to trend, seasonality, and autocorrelation. Our analytical pursuit extends to the practical application of an Autoregressive Integrated Moving Average (ARIMA) model, leveraging test data. Through this methodological approach, we aim to distill meaningful insights and derive statistically robust inferences, contributing to a nuanced comprehension of the temporal dynamics encapsulated within the dataset under consideration.
 
 ## Content
 
@@ -8,13 +8,6 @@ explanation of the github project
 - [Examples](#examples)
 - [Project Structure](#project-structure)
 - [Contribution](#contribution)
-
-
-## Usage
-
-use or tutorial of the project
-
-## Examples
 
 
 
